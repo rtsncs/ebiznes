@@ -41,3 +41,15 @@
 :x: 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenger, Webex
 
 [Kod](https://github.com/rtsncs/ebiznes/tree/master/3)
+
+**Zadanie 4** Go
+
+:white_check_mark: 3.0 [Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD](https://github.com/rtsncs/ebiznes/commit/22ffa05bb83376a4fb0daa59996f1dcb7ae4f198)
+:white_check_mark: 3.5 [Należy stworzyć model Produktów wykorzystując gorm oraz wykorzystać model do obsługi produktów (CRUD) w kontrolerze (zamiast listy)](https://github.com/rtsncs/ebiznes/commit/22ffa05bb83376a4fb0daa59996f1dcb7ae4f198)
+:white_check_mark: 4.0 [Należy dodać model Koszyka oraz dodać odpowiedni endpoint](https://github.com/rtsncs/ebiznes/commit/22ffa05bb83376a4fb0daa59996f1dcb7ae4f198)
+:x: 4.5 Należy stworzyć model kategorii i dodać relację między kategorią, a produktem
+:x: 5.0 pogrupować zapytania w gorm’owe scope'y
+
+[Kod](https://github.com/rtsncs/ebiznes/tree/master/4)
+
+
