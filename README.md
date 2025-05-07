@@ -70,3 +70,43 @@
 
 [Kod](https://github.com/rtsncs/ebiznes/tree/master/5)
 
+**Zadanie 6** Cypress
+
+:white_check_mark: 3.0 [Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)](https://github.com/rtsncs/ebiznes/commit/3f43c10e57f1478e851f621f73cc0239b952cc22)
+
+:white_check_mark: 3.5 [Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji](https://github.com/rtsncs/ebiznes/commit/3f43c10e57f1478e851f621f73cc0239b952cc22)
+
+:x: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami
+
+:x: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+:x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku
+
+[Kod](https://github.com/rtsncs/ebiznes/tree/master/6)
+
+**Zadanie 7** Sonar
+
+:white_check_mark: 3.0 [Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita](https://github.com/rtsncs/shop-backend/commit/b87df706f8c87f878644f8290f2a0a4b4f17e994)
+
+:white_check_mark: 3.5 [Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej)](https://github.com/rtsncs/shop-backend/commit/9107b86038d2d57949c082e31e6039eea4eca133)
+
+:white_check_mark: 4.0 [Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej)](https://github.com/rtsncs/shop-backend/commit/9107b86038d2d57949c082e31e6039eea4eca133)
+
+:white_check_mark: 4.5 [Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)](https://github.com/rtsncs/shop-backend/commit/9107b86038d2d57949c082e31e6039eea4eca133)
+
+:x: 5.0 [Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+
+[Kod (klient)](https://github.com/rtsncs/shop-frontend)
+[Kod (serwer)](https://github.com/rtsncs/shop-backend)
+
+**Zadanie 8** Oauth2
+
+:x: 3.0 logowanie przez aplikację serwerową (bez Oauth2)
+
+:x: 3.5 rejestracja przez aplikację serwerową (bez Oauth2)
+
+:x: 4.0 logowanie via Google OAuth2
+
+:x: 4.5 logowanie via Facebook lub Github OAuth2
+
+:x: 5.0 zapisywanie danych logowania OAuth2 po stronie serwera
