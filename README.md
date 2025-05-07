@@ -94,7 +94,7 @@
 
 :white_check_mark: 4.5 [Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)](https://github.com/rtsncs/shop-backend/commit/9107b86038d2d57949c082e31e6039eea4eca133)
 
-:x: 5.0 [Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
+:white_check_mark: 5.0 [Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej](https://github.com/rtsncs/shop-frontend/commit/ae102e4a79073dbe47a4709295a4f32e7daf3795)
 
 [Kod (klient)](https://github.com/rtsncs/shop-frontend)
 [Kod (serwer)](https://github.com/rtsncs/shop-backend)
