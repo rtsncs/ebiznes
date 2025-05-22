@@ -101,12 +101,15 @@
 
 **Zadanie 8** Oauth2
 
-:x: 3.0 logowanie przez aplikację serwerową (bez Oauth2)
+:white_check_mark: 3.0 [logowanie przez aplikację serwerową (bez Oauth2)](https://github.com/rtsncs/shop-backend/commit/1aea55f6c6e0d1563e6efa96332339f46f0dadd8)
 
-:x: 3.5 rejestracja przez aplikację serwerową (bez Oauth2)
+:white_check_mark: 3.5 [rejestracja przez aplikację serwerową (bez Oauth2)](https://github.com/rtsncs/shop-backend/commit/1aea55f6c6e0d1563e6efa96332339f46f0dadd8)
 
 :x: 4.0 logowanie via Google OAuth2
 
 :x: 4.5 logowanie via Facebook lub Github OAuth2
 
 :x: 5.0 zapisywanie danych logowania OAuth2 po stronie serwera
+
+[Kod (klient)](https://github.com/rtsncs/shop-frontend)
+[Kod (serwer)](https://github.com/rtsncs/shop-backend)
