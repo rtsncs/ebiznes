@@ -113,3 +113,17 @@
 
 [Kod (klient)](https://github.com/rtsncs/shop-frontend)
 [Kod (serwer)](https://github.com/rtsncs/shop-backend)
+
+**Zadanie 9** Chatbot
+
+:white_check_mark: 3.0 [należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat](https://github.com/rtsncs/ebiznes/commit/e4ed424416681b433f71b4bba272b74e12659674)
+
+:white_check_mark: 3.5 [należy stworzyć interfejs frontowy dla użytkownika, który komunikuje się z serwisem; odpowiedzi powinny być wysyałen do frontendowego interfejsu](https://github.com/rtsncs/ebiznes/commit/e4ed424416681b433f71b4bba272b74e12659674)
+
+:x: 4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy
+
+:x: 4.5 filtrowanie po zagadnieniach związanych ze sklepem (np. ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
+
+:x: 5.0 filtrowanie odpowiedzi po sentymencie
+
+[Kod](https://github.com/rtsncs/ebiznes/tree/master/9)
