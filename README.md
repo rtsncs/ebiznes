@@ -127,3 +127,18 @@
 :x: 5.0 filtrowanie odpowiedzi po sentymencie
 
 [Kod](https://github.com/rtsncs/ebiznes/tree/master/9)
+
+**Zadanie 10** Chmura
+
+:white_check_mark: 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze
+
+:white_check_mark: 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)
+
+:white_check_mark: 4.0 Dodać notyfikację mailową o zbudowaniu aplikacji
+
+:white_check_mark: 4.5 Dodać krok z deploymentem aplikacji serwerowej oraz klienckiej na chmurę
+
+:x: 5.0 Dodać uruchomienie regresyjnych testów automatycznych (funkcjonalnych) jako krok w Actions
+
+[Kod (klient)](https://github.com/rtsncs/shop-frontend)
+[Kod (serwer)](https://github.com/rtsncs/shop-backend)
